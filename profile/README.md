@@ -6,4 +6,5 @@
     <a href="https://open.spotify.com/show/2sdZ4vzSWCmELvKYe9VBob" target="_blank">Podcast</a>
   </samp>
 </p>
-![Banner](https://i.ibb.co/zZX9Pjr/Banner.jpg)  
+
+![Banner](https://raw.githubusercontent.com/Tunisian-GitHub-Community/.github/master/profile/Banner.jpg)  
